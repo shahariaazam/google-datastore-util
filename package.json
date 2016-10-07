@@ -1,6 +1,6 @@
 {
   "name": "google-datastore-util",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Utilities for easy CRUD operation on Google Datastore. Simple and handy.",
   "main": "GoogleDatastoreUtil.js",
   "scripts": {
