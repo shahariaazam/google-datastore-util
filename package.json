@@ -1,0 +1,14 @@
+{
+  "name": "google-datastore-util",
+  "version": "1.0.0",
+  "description": "Utilities for easy CRUD operation on Google Datastore. Simple and handy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaharia Azam <shaharia.azam@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/datastore": "^0.4.0"
+  }
+}
