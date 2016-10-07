@@ -1,8 +1,8 @@
 {
   "name": "google-datastore-util",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Utilities for easy CRUD operation on Google Datastore. Simple and handy.",
-  "main": "index.js",
+  "main": "GoogleDatastoreUtil.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
