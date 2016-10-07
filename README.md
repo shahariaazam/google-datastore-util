@@ -27,3 +27,5 @@ ds.update(id, data, function(error, result){
     console.info(error, result);
 });
 ```
+
+All credit goes to [https://github.com/GoogleCloudPlatform/nodejs-getting-started/blob/master/2-structured-data/books/crud.js](https://github.com/GoogleCloudPlatform/nodejs-getting-started/blob/master/2-structured-data/books/crud.js)
