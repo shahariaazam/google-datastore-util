@@ -4,7 +4,7 @@ Simple CRUD library for Google Datastore.
 #### Usage
 
 ```js
-var ds = require("./GoogleDatastoreUtil")({
+var ds = require("google-datastore-util")({
     projectId: "googleCloudProjectId",
     keyFilename: "keyFileLocation",
     namespace: "yourNamespace",
