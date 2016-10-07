@@ -1,6 +1,6 @@
 {
   "name": "google-datastore-util",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Utilities for easy CRUD operation on Google Datastore. Simple and handy.",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,9 @@
   "license": "MIT",
   "dependencies": {
     "@google-cloud/datastore": "^0.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahariaazam/google-datastore-util.git"
   }
 }
